@@ -1,0 +1,133 @@
+niversidad Tecnológica de Pereira
+Programación de computadores
+Programas con condiciones
+Para cada uno de los siguientes ejercicios hacer el algoritmo en seudocódigo antes de hacer el respectivo
+programa en lenguaje ANSI C:
+
+1.Hacer un programa que lea un número entero y determine si termina o no en 4.
+2.Hacer un programa que lea un número entero y determine si es o no múltiplo de 6.
+3.Hacer un programa que lea un número entero y determine si tiene o no 3 dígitos.
+4.Hacer un programa que lea un número entero de cuatro dígitos y determine a cuanto es igual la suma de sus dígitos.
+5.Hacer un programa que lea tres números enteros y determine si el último dígito de los
+tres números es igual.
+6.Hacer un programa que calcule el área de un triángulo equilátero dado el valor de su
+lado.
+7.Hacer un programa que calcule el volumen y el área de la superficie de un cilindro
+circular recto dados los valores de la altura y del radio de la base circular.
+8.Hacer un programa que lea dos números enteros P y Q y determine si satisfacen la
+expresión P 3 + Q 4 − 2 P 2 < 680 .
+9. Hacer un programa que lea un valor
+θ en radianes y evalue
+1 + cos( θ )
+sen ( θ )
+10. Hacer un programa que lea tres números enteros y determine si pueden representar
+los lados de un triángulo rectángulo.
+11. Leer los valores a, b y c de la ecuación cuadrática x 2 + bx + c = 0 y determinar su
+solución mediante la fórmula 
+x =− b ±sqrt( b** 2 − 4 ac)/2 a
+
+12. En una estación ferroviaria el costo por Km recorrido es de $12.000. Para calcular el
+costo de un tiquete se deben conocer el tiempo de estancia en el destino y la distancia
+recorrida de ida. Se sabe además que si el número de días de estancia es menor a 7 y
+la distancia total recorrida (ida y vuelta) es superior a 800 Km, el tiquete tiene una
+reducción del 30%. Hacer un programa que determine el valor del tiquete.
+13. Hacer un programa que lea un número entero positivo menor que veinte y determine si
+es o no primo.
+14. Hacer un programa que lea un número entero de tres dígitos y determine si sus tres
+dígitos son primos.
+15. Hacer un programa que lea un número entero de cinco dígitos y determine si es o no
+un número capicúo. (Ejemplo número capicúo 23632).
+16. Hacer un programa que lea un número entero y si es múltiplo de 4 determine si su
+último dígito es o no primo.
+17. Hacer un programa que lea dos números enteros de dos dígitos y determine si tienen o
+no dígitos comunes.
+18. Hacer un programa que lea un número entero de cinco dígitos y determine si la suma
+de sus dígitos es par o es impar.
+19. Hacer un programa que lea dos números enteros de tres dígitos y determine si la suma
+de los dígitos del primer número es igual a la suma de los dígitos del segundo número.
+20. Hacer un programa que lea un número entero de tres dígitos y determine si al menos
+dos de sus tres dígitos son iguales.
+21. Hacer un programa que lea un número entero de cuatro dígitos y determine si el primer
+digito es múltiplo de alguno de los otros dígitos.
+22. Hacer un programa que lea tres números enteros de mínimo tres dígitos y determine si
+el penúltimo dígito de los tres números es igual.
+23. Hacer un programa que lea un número entero de cuatro dígitos y un número entero de
+dos dígitos y determine si el segundo número está contenido en el primer número.
+24. Hacer un programa que lea un número entero y si el número es de tres dígitos,
+determinar si su primer digito es o no par, si el número no es de tres dígitos, determinar
+si su último digito es o no primo.
+25. Hacer un programa que lea dos números enteros y si ambos números son positivos
+determinar si la suma de sus últimos dígitos es o no múltiplo de tres, si los dos
+números no son positivos, determinar si alguno de los dos números vale cero.26. Hacer un programa que lea un número entero y determine si es positivo, negativo o
+nulo.
+27. Hacer un programa que lea dos números enteros y determine cual es el mayor.
+28. Hacer un programa que lea dos números enteros y determine cual es múltiplo de cual.
+29. Hacer un programa que lea tres números enteros y determine si se ingresaron en
+orden ascendente, orden descendente o en desorden.
+30. Hacer un programa que lea un número entero y determine si tiene uno, dos, tres,
+cuatro o mas dígitos.
+31. En determinada empresa, al final de cada año se hace un aumento en el sueldo básico
+mensual de sus trabajadores según el siguiente criterio:
+SUELDO S
+AUMENTO
+S≤$500.000 25%
+$500.000<S≤$1.000.000
+15%
+$1.000.000<S≤$2.000.000
+10%
+S>$2.000.000
+3%
+Además, la empresa otorga otro aumento del 10% sobre el sueldo básico a aquellos
+trabajadores que acumularon más de 100 horas extras laboradas durante todo el año.
+Hacer un programa que reciba el sueldo básico mensual del trabajador y el número de
+horas extras acumuladas en el año y calcule el nuevo sueldo.
+32. En cierta institución educativa se hace un descuento del 20% en la matrícula de los
+estudiantes cuyo promedio sea superior a 4.5. Hacer un programa que lea el promedio
+de un estudiante y el costo de su matrícula y calcule e imprima el nuevo valor de la
+matrícula.
+33. Hacer un programa tal que dadas las coordenadas cartesianas de los puntos
+P 1 = ( x 1 , y 1 ) , P 2 = ( x 2 , y 2 ) y P 3 = ( x 3 , y 3 ) que corresponden a los vértices de un
+triángulo calcule su área A = 1 / 2 * (( x 2 − x 1 ) * ( y 3 − y 1 ) − ( x 3 − x 1 ) * ( y 2 − y 1 )) .
+34. Hacer un programa que lea un número entero y determine si dicho número es múltiplo
+de 2, múltiplo de 3, múltiplo de 4 o de ninguno de dichos números.
+35. Hacer un programa que lea un número entero y si el número termina en el digito dos,
+mostrar por pantalla el resultado de elevar el número al cuadrado, si termina en el
+digito 3, mostrar el resultado de elevar el número al cubo, y si termina en el digito
+cuatro, mostrar el resultado de elevar el número a la cuatro.
+36. Hacer un programa que lea un número entero de cuatro dígitos y determine cuantos
+dígitos primos tiene.
+37. Hacer un programa que lea un número entero de cinco dígitos y determine cuantos
+dígitos pares y cuantos dígitos impares tiene.
+38. Hacer un programa que lea un número entero de cinco dígitos y determine cual es el
+digito mayor.
+39. Hacer un programa que lea dos números enteros de tres dígitos y determine cual tiene
+más cantidad de dígitos pares.
+40. Hacer un programa que lea 5 números enteros y determine e imprima el entero mayor
+del grupo.
+41. Hacer un programa que lea 6 números enteros y determine e imprima la cantidad de
+números positivos.
+42. Hacer un programa que lea tres números enteros positivos que representan los
+posibles lados de un triángulo y determine si dichos datos corresponden o no a un
+triángulo. En caso que si correspondan, el programa debe determinar si se trata de un
+triángulo equilátero, isósceles o escaleno.
+43. Hacer un programa que lea dos números y que muestre por pantalla el menú:
+s. suma.
+r. resta.
+m. multiplicación.
+d. división.
+y calcule la respectiva operación entre los números ingresados según la opción que
+elija el usuario.
+44. En un consultorio médico se hacen descuentos en el costo de la consulta según la
+categoría del paciente como se indica en la siguiente tabla:
+CATEGORÍA PACIENTE
+DESCUENTO
+1 40%
+2 30%
+3 15%
+4 5%
+Además, si el paciente es menor a 12 años tendrá un descuento adicional del 10% y si
+presenta más de tres enfermedades tendrá otro descuento del 8%, todo sobre el costo
+inicial de la consulta. Hacer un programa que lea la categoría, la edad y el número de
+enfermedades del paciente y calcule el valor de la consulta.
+45. Hacer un programa que lea el mes (número del uno al doce) y el día de la fecha de
+nacimiento de una persona y determine su signo zodiacal.
