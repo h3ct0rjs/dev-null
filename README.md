@@ -16,7 +16,7 @@ Curso:CyberSecurity| Iniciando 4 Enero 2 hrs/dia
 Ademas las siguientes actividades, que debo
 realizar:
 
-** Libros Pendientes de Lectura, Orden por Prioridad.
+** Libros Pendientes de Lectura, Orden por Prioridad.**
 
  - *The Debian Administrator, Hertzog y Rmas*
  - *Secrets and Lies , Bruce Schneier *
@@ -25,7 +25,7 @@ realizar:
  - *Necromante, Bruce Sterling*
  - *Spam Nation, Krebs*
 
-** Salud
+** Salud **
 - Trotar, algo de barras.
 
 ** Proyectos Actuales
