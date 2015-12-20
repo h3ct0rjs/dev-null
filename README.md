@@ -3,7 +3,7 @@ Este repositorio es para mis proyectos temporales vacaciones 2015(Diciembre)-201
 la idea es fortalecer varias cosas que no recuerdo y creia saber, lo que me gustaria aprender 
 y cosas nuevas para mi desarrollo profesional de ingeniero. 
 
-** Estudio Carrera
+#### Estudio Carrera
 
 Tema | ~Tiempo 
 :--|:--:
@@ -16,7 +16,7 @@ Curso:CyberSecurity| Iniciando 4 Enero 2 hrs/dia
 Ademas las siguientes actividades, que debo
 realizar:
 
-** Libros Pendientes de Lectura, Orden por Prioridad.**
+#### Libros Pendientes de Lectura, Orden por Prioridad
 
  - *The Debian Administrator, Hertzog y Rmas*
  - *Secrets and Lies , Bruce Schneier *
@@ -25,10 +25,10 @@ realizar:
  - *Necromante, Bruce Sterling*
  - *Spam Nation, Krebs*
 
-** Salud **
+#### Salud
 - Trotar, algo de barras.
 
-** Proyectos Actuales
+#### Proyectos Actuales
 
 >UTP Judgebot  Competencias ACM-ICPC.
 >Desarrollo de App para tratamiento de datos y WSN.
