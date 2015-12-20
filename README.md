@@ -26,22 +26,11 @@ realizar:
  - *Spam Nation, Krebs*
 
 ** Salud
-- Semana 1, 30 min trotando +  30 min barras.
- - Lunes
- - Martes 
- - Miercoles 
- - Jueves 
- - Sabado
-  - Tardes de Educational Rounds Codeforces.
-
-- Semana 2, 45 min trotando +  40 min barras
-- Semana 3, 1 hr trotando + 25 min levantamiento de peso.
-- Semana 4, 1 hr trotando + 25 min combinados.
-- Semana 5, 40 min trotando + 30 combinados.
+- Trotar, algo de barras.
 
 ** Proyectos Actuales
 
 >UTP Judgebot  Competencias ACM-ICPC.
 >Desarrollo de App para tratamiento de datos y WSN.
-
+>Codeforces Educational Rounds.
 
