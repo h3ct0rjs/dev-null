@@ -1,9 +1,10 @@
 #include <bits/stdc++.h>
-#include <stdio.h>
-
-
-int main(){
-
-  return 0;
-
+using namespace std;
+#define CONSTANT VALUE 
+ 
+int main(void){
+    double R,A;
+    scanf("%lf",&R);
+    printf("A=%.4f\n",A);   //Rounding Values.
+    return 0;   
 }
