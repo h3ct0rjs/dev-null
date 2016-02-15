@@ -1,18 +1,20 @@
-#include <math.h> 
+#include <math.h>
 #include <iostream>
 #include <stdio.h>
+#include <bits/stdc++.h>
 
 using namespace std;
-#define fast ios_base::sync_with_stdio(false);cin.tie(NULL) 
+
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL)
 //INPUT  N (1 ≤ N ≤ 100)
 /*
 Input
- 
+
 The input contains several test cases. The first contains
-the number of test cases N (1 ≤ N ≤ 100). 
-Each of the following N lines contain an integer X (1 ≤ X ≤ 108), 
+the number of test cases N (1 ≤ N ≤ 100).
+Each of the following N lines contain an integer X (1 ≤ X ≤ 108),
 that can be or not a perfect number.
- 
+
 Output
 For each test case output the message “X eh perfeito” (X is perfect) or
 “X nao eh perfeito” (X isn't perfect) according with to above specification.
@@ -38,8 +40,8 @@ int main(){
 }
 /*
 int square_root = (int) sqrt(num) + 1;
-for (i = 1; i < square_root; i++){ 
+for (i = 1; i < square_root; i++){
 if (num % i == 0)
     cout << i << num/i << endl;
 }
-*/ 
+*/
