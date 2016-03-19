@@ -7,11 +7,11 @@ y cosas nuevas para mi desarrollo profesional.
 
 Tema | ~Tiempo 
 :--|:--:
-JavaScript | 15 Dias **4 hrs/dia**
-NodeJs:Basico| 10 Dias **3 hrs/dia**
-C++:DominioLenguaje| 1 Mes **3.5 hrs/dia**
-Docker: Infraestructura,Arquitectura| 10 Dias **2 hrs/dia**
-Curso:CyberSecurity| Iniciando 4 Enero 2 hrs/dia
+JavaScript | 15 Dias **4 hrs/dia** postergado-
+NodeJs:Basico| 10 Dias **3 hrs/dia** No alcanzado
+C++:~~DominioLenguaje~~| 1 Mes **3.5 hrs/dia** Cubierto lo basico.
+Docker:~~Infraestructura,Arquitectura~~| 10 Dias **2 hrs/dia**
+Curso:~~CyberSecurity~~| Iniciando 4 Enero 2 hrs/dia- **Terminado 28 de Febrero**.
 
 Ademas las siguientes actividades, que debo
 realizar:
@@ -19,7 +19,7 @@ realizar:
 #### Libros Pendientes de Lectura, Orden por Prioridad
 
  - *The Debian Administrator, Hertzog y Rmas*
- - *Secrets and Lies , Bruce Schneier*
+ - *~~Secrets and Lies , Bruce Schneier~~*
  - *~~Trucos Sexuales para Ella~~*
  - *~~El tao de la salud, el sexo y la larga vida~~*
  - *Necromante, Bruce Sterling*
