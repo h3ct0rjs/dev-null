@@ -1,0 +1,33 @@
+* Kernel protection information:
+
+  Description - List the status of kernel protection mechanisms. Rather than
+  inspect kernel mechanisms that may aid in the prevention of exploitation of
+  userspace processes, this option lists the status of kernel configuration
+  options that harden the kernel itself against attack.
+
+  Kernel config: [33m/boot/config-4.5.0-1-686-pae[m
+
+  Warning: The config on disk may not represent running kernel config!
+
+  GCC stack protector support:            [32mEnabled[m
+  Strict user copy checks:                [31mDisabled[m
+  Enforce read-only kernel data:          [32mEnabled[m
+  Restrict /dev/mem access:               [32mEnabled[m
+  Restrict /dev/kmem access:              [32mEnabled[m
+
+* grsecurity / PaX: [33mCustom GRKERNSEC[m
+
+  Non-executable kernel pages:            [31mEnabled[m
+  Prevent userspace pointer deref:        [31mEnabled[m
+  Prevent kobject refcount overflow:      [31mEnabled[m
+  Bounds check heap object copies:        [31mEnabled[m
+  Disable writing to kmem/mem/port:       [31mEnabled[m
+  Disable privileged I/O:                 [31mEnabled[m
+  Harden module auto-loading:             [31mEnabled[m
+  Hide kernel symbols:                    [31mEnabled[m
+
+* Kernel Heap Hardening: [31mWOW KERNHEAP IMPLEMENTED[m
+
+  The KERNHEAP hardening patchset is available here:
+    https://www.subreption.com/kernheap/
+
